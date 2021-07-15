@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aymenwa
+- 👋 Hi, I’m @aymen
 - 👀 I’m interested in ... data science and artificial intiligence
 - 🌱 I’m currently learning ... python 
 - 💞️ I’m looking to collaborate on ... python and AI
